@@ -1,5 +1,9 @@
 ## Special Sinners
 *://*.farath.com/*
+*://*.stackify.dev/*
+*://*.python.engineering/*
+*://*.studytonight.com/*
+*://*.forpythons.com/*
 
 ## Spam Code Sites -- https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 *://bleepcoder.com/*
